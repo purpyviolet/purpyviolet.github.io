@@ -21,7 +21,8 @@ Work experience
   * South China University of Technology
   * Duties includes: Literature Review, VR Scene Design Using Unity Engine, Data Mining, fNIRS Signal Processing, Eye-tracking Data Processing
   * Supervisor: Chunmei Qing
-  Skills
+
+Skills
   ======
 * Python, C++, C#
 * Machine Learning & Deep Learning
