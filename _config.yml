@@ -12,7 +12,7 @@ title                    : "purpyviolet"
 title_separator          : "-"
 name                     : &name "Yihang Zou"
 description              : &description "personal academic website"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://purpyviolet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "purpyviolet/purpyviolet.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Do not go gentle into that good night."
   location         : "Guangdong Guangzhou, China"
   employer         : "South China University of Technology"
-  uri              :  "www.purpyviolet.top"
+  uri              :  #
   email            : "epiphyllum520@outlook.com" 
 
   # Academic websites
@@ -199,7 +199,7 @@ kramdown:
 
 
 # Collections
-collections:
+collections:purpyviolet
   teaching:
     output: true
     permalink: /:collection/:path/
