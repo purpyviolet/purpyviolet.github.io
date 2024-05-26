@@ -199,7 +199,7 @@ kramdown:
 
 
 # Collections
-collections:purpyviolet
+collections:
   teaching:
     output: true
     permalink: /:collection/:path/
