@@ -22,12 +22,14 @@ Work experience
   * Duties includes: Literature Review, VR Scene Design Using Unity Engine, Data Mining, fNIRS Signal Processing, Eye-tracking Data Processing
   * Supervisor: Chunmei Qing
 
+
+
 Skills
-  ======
+======
 * Python, C++, C#
 * Machine Learning & Deep Learning
   * Data Preprocessing and Augmentation
-  * Neural Network Architectures (CNNs, RNNs, LSTMs...)
+  * Neural Network Architectures (CNNs, LSTMs, Transformers...)
   * Model Training and Hyperparameter Tuning
   * Implementing and Optimizing Algorithms with TensorFlow and PyTorch
 * VR Scene Development with Unity
