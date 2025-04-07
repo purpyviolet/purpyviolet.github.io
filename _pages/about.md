@@ -28,7 +28,7 @@ Core Courses: Machine Learning, Deep Learning, Data Structures and Algorithms, I
 ## Personal Skills
 
 - **Academic Ability**:  
-  - GPA: 3.74/4.00, Ranking: 22/76
+  - GPA: **3.74/4.00**
 
 - **Professional Skills**:  
   - Proficient in programming languages such as Python, C++, C#, R, and Matlab, with a focus on Python.  
