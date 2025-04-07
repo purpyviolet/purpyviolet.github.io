@@ -59,4 +59,29 @@ Core Courses: Machine Learning, Deep Learning, Data Structures and Algorithms, I
 
 
 
+---
+## Project Experience
+
+
+###  Project Experience 1: Affective Computing Based on Functional Near-Infrared Spectroscopy in Virtual Reality Environments (National Innovation Project, Hundred-Step Ladder Climbing Plan)
+
+**Project Duration**: June 2023 - June 2024
+
+**Project Description**:  
+Participated in a national-level innovation project, focusing on detecting and assisting in the treatment of depression tendencies through virtual reality (VR) technology and functional near-infrared spectroscopy (fNIRS). The project designed and developed four VR scenarios, two for detecting depression tendencies and the other two for mindfulness guidance and auxiliary treatment. By recording the fNIRS signals of the cerebral cortex of subjects in specific VR environments and combining their performance in spatial memory navigation tasks, the project explored the relationship between depression tendencies and cognitive functions.
+
+**Technical Details**:
+
+- Developed VR environments using **Unity**, with **C#** as the programming language.
+- Designed and implemented a VR scenario for a city spatial memory and navigation task. Research indicates that the spatial memory navigation ability of the hippocampus is related to the degree of depression, with subjects having depression tendencies performing worse in spatial memory tasks. This scenario indirectly assessed the subjects' depression levels.
+- While subjects completed the VR tasks, their cerebral cortex fNIRS signals were recorded to analyze their brain activity patterns and identify neurophysiological indicators related to depression.
+- Combined psychological assessment scales to comprehensively evaluate the subjects' emotional states and cognitive functions, verifying the effectiveness of the VR tasks.
+- Preprocessed and analyzed the collected fNIRS data to extract brain activity features related to depression, exploring new biomarkers.
+
+**Achievements**:
+
+- The project results have applied for the patent "A Method and System for Identifying Depression Tendencies and Guiding Mindfulness," which is currently under acceptance.
+- Successfully developed a VR system for depression detection and auxiliary treatment, providing new technological means and research directions for mental health intervention.
+
+---
 
