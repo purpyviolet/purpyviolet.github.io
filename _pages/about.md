@@ -88,7 +88,7 @@ Participated in a national-level innovation project, focusing on detecting and a
 ---
 
 
-### ==Project Experience 2: Functional Near-Infrared Spectroscopy Classification Based on Deep Learning==
+### <mark>Project Experience 2: Functional Near-Infrared Spectroscopy Classification Based on Deep Learning</mark>
 
 **Project Duration**: September 2024 - November 2024
 
@@ -149,7 +149,7 @@ Dedicated to developing an automatic epilepsy detection system based on electroe
 
 ---
 
-### ==Project Experience 4: Research on fNIRS-based Brain Signal Decoding==
+### <mark>Project Experience 4: Research on fNIRS-based Brain Signal Decoding</mark>
 
 **Project Duration**: March 2025 - Present
 
@@ -212,7 +212,7 @@ Responsible for developing a stock analysis and prediction model based on machin
 
 ---
 
-### ==Course Project Experience 3: Independent Sign Language Recognition and Classification Based on Deep Learning==
+### <mark>Course Project Experience 3: Independent Sign Language Recognition and Classification Based on Deep Learning</mark>
 
 **Project Duration**: April 2024 - June 2024
 
@@ -261,7 +261,7 @@ Responsible for the fine-tuning project of a large language model in the field o
 
 ---
 
-### ==Course Project Experience 5: Predicting Binding Affinity of Small Molecules to Specific Protein Targets Using Deep Learning==
+### <mark>Course Project Experience 5: Predicting Binding Affinity of Small Molecules to Specific Protein Targets Using Deep Learning</mark>
 
 **Project Duration**: September 2024 - December 2024
 
