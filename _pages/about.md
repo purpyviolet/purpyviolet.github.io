@@ -65,7 +65,7 @@ Core Courses: Machine Learning, Deep Learning, Data Structures and Algorithms, I
 ## Research Project Experience
 
 
-###  Project Experience 1: Affective Computing Based on Functional Near-Infrared Spectroscopy in Virtual Reality Environments (National Innovation Project, Hundred-Step Ladder Climbing Plan)
+### Research Project Experience 1: Affective Computing Based on Functional Near-Infrared Spectroscopy in Virtual Reality Environments (National Innovation Project, Hundred-Step Ladder Climbing Plan)
 
 **Project Duration**: June 2023 - June 2024
 
@@ -88,7 +88,7 @@ Participated in a national-level innovation project, focusing on detecting and a
 ---
 
 
-### <mark>Project Experience 2: Functional Near-Infrared Spectroscopy Classification Based on Deep Learning</mark>
+### <mark>Research Project Experience 2: Functional Near-Infrared Spectroscopy Classification Based on Deep Learning</mark>
 
 **Project Duration**: September 2024 - November 2024
 
@@ -112,7 +112,7 @@ Responsible for improving the functional near-infrared spectroscopy (fNIRS) clas
 
 ---
 
-### Project Experience 3: Research on Automatic Epilepsy Detection System Based on Electroencephalogram (EEG)
+### Research Project Experience 3: Research on Automatic Epilepsy Detection System Based on Electroencephalogram (EEG)
 
 **Project Duration**: March 2025 - Present
 
@@ -149,7 +149,7 @@ Dedicated to developing an automatic epilepsy detection system based on electroe
 
 ---
 
-### <mark>Project Experience 4: Research on fNIRS-based Brain Signal Decoding</mark>
+### <mark>Research Project Experience 4: Research on fNIRS-based Brain Signal Decoding</mark>
 
 **Project Duration**: March 2025 - Present
 
@@ -171,6 +171,23 @@ Participated in the research of brain signal decoding based on functional near-i
 
 ---
 
+
+## Competition Experience: Mathematical Modeling Competitions
+
+**Competition Timeline**:
+
+- Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM): February 2024  
+- Greater Bay Area Financial Mathematics Modeling Competition: November 2024  
+- Asia-Pacific Mathematical Modeling in Business Competition: November 2024  
+
+**Competition Description**:  
+In the aforementioned mathematical modeling competitions, I was responsible for preprocessing the raw data, including data cleaning and feature engineering. I utilized methods such as **PCA** and **t-SNE** for dimensionality reduction. Through correlation analysis methods like **MIC** and **Pearson**, I delved into the relationships between data features. I employed various predictive models, including **Random Forest Regression**, **Support Vector Regression (SVR)**, **Neural Network Regression**, **Long Short-Term Memory (LSTM)**, **AutoRegressive Integrated Moving Average (ARIMA)**, and **Grey Prediction**, to model and forecast the data. Ultimately, I submitted high-quality solutions and achieved outstanding results.
+
+**Achievements**:
+
+- Earned the **M Award** in the Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM).  
+- Received the **Second Prize** in the Greater Bay Area Financial Mathematics Modeling Competition.  
+- Won the **Third Prize** in the Asia-Pacific Mathematical Modeling in Business Competition.
 
 
 ## Course Project Experience
