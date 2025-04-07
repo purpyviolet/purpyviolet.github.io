@@ -26,7 +26,7 @@ Work experience
 
 Skills
 ======
-* Python, C++, C#
+* Python, C++, C#, m, R
 * Machine Learning & Deep Learning
   * Data Preprocessing and Augmentation
   * Neural Network Architectures (CNNs, LSTMs, Transformers...)
