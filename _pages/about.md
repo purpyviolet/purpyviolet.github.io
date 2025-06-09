@@ -52,6 +52,7 @@ Core Courses: Machine Learning, Deep Learning, Data Structures and Algorithms, I
 - **Academic Competitions**:  
   - 2023 Baidu Paddle Cup **Second Prize**.  
   - 2024 MCM/ICM (Mathematical Contest in Modeling) **Meritorious Award(top 6%)**.  
+  - 2025 Mathorcup **First Prize**(top 10%), proposed to recommend national-level awards.
   - 2024 Greater Bay Area Mathematical Finance Modeling Competition **Second Prize**.  
   - 2024 14th Asia-Pacific Mathematical Contest in Modeling **Third Prize**.  
   - 2024 International Innovation Competition for College Students, Industry Track Final **Bronze Award**.
@@ -93,7 +94,7 @@ Participated in a national-level innovation project, focusing on detecting and a
 **Project Duration**: September 2024 - November 2024
 
 **Project Description**:  
-Responsible for improving the functional near-infrared spectroscopy (fNIRS) classification model. Adopted the **Test Time Training (TTT)** model architecture based on temporal sequences to optimize the existing **Vision Transformer (ViT)**. By replacing the attention layers with the TTT model architecture, the classification performance of the model on temporal data was significantly enhanced. The improved model achieved **State-of-the-Art (SOTA)** performance on three public datasets, and the related results have been submitted to the MICCAI conference (ccfb).
+Responsible for improving the functional near-infrared spectroscopy (fNIRS) classification model. Adopted the **Test Time Training (TTT)** model architecture based on temporal sequences to optimize the existing **Vision Transformer (ViT)**. By replacing the attention layers with the TTT model architecture, the classification performance of the model on temporal data was significantly enhanced. The improved model achieved **State-of-the-Art (SOTA)** performance on three public datasets.
 
 **Technical Details**:
 
