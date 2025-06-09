@@ -106,7 +106,7 @@ Responsible for improving the functional near-infrared spectroscopy (fNIRS) clas
 
 **Achievements**:
 
-- Achieved **State-of-the-Art (SOTA)** performance on three public datasets, significantly improving the accuracy of fNIRS classification.
+- Achieved **State-of-the-Art (SOTA)** performance on two public datasets, significantly improving the accuracy of fNIRS classification.
 
 
 
@@ -179,15 +179,17 @@ Participated in the research of brain signal decoding based on functional near-i
 - Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM): February 2024  
 - Greater Bay Area Financial Mathematics Modeling Competition: November 2024  
 - Asia-Pacific Mathematical Modeling in Business Competition: November 2024  
+- Mathorcup Mathematical Modeling Competition: April 2025
 
 **Competition Description**:  
 In the aforementioned mathematical modeling competitions, I was responsible for preprocessing the raw data, including data cleaning and feature engineering. I utilized methods such as **PCA** and **t-SNE** for dimensionality reduction. Through correlation analysis methods like **MIC** and **Pearson**, I delved into the relationships between data features. I employed various predictive models, including **Random Forest Regression**, **Support Vector Regression (SVR)**, **Neural Network Regression**, **Long Short-Term Memory (LSTM)**, **AutoRegressive Integrated Moving Average (ARIMA)**, and **Grey Prediction**, to model and forecast the data. Ultimately, I submitted high-quality solutions and achieved outstanding results.
 
 **Achievements**:
 
-- Earned the **M Award** in the Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM).  
+- Earned the **Meritorious Award** in the Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM).  
 - Received the **Second Prize** in the Greater Bay Area Financial Mathematics Modeling Competition.  
 - Won the **Third Prize** in the Asia-Pacific Mathematical Modeling in Business Competition.
+- Won the **First Prize** in the Mathorcup Mathematical Modeling Competition.
 
 
 ## Course Project Experience
