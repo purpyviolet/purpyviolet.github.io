@@ -102,12 +102,11 @@ Responsible for improving the functional near-infrared spectroscopy (fNIRS) clas
 - Adopted the **Test Time Training (TTT)** model architecture based on temporal sequences to optimize the existing **Vision Transformer (ViT)**, enhancing the model's ability to capture temporal features.
 - Replaced the attention layers with the TTT model architecture to optimize the model's dynamic adjustment capabilities and improve classification accuracy.
 - Conducted experimental validation on three public datasets, using cross-validation and performance evaluation to demonstrate the superiority of the improved model.
-- Participating in writing an academic paper detailing the model improvement methods and experimental results, which has been submitted to the **MICCAI conference** (ccfb under review).
+
 
 **Achievements**:
 
 - Achieved **State-of-the-Art (SOTA)** performance on three public datasets, significantly improving the accuracy of fNIRS classification.
-- Submitted the related research results to the MICCAI conference (ccf-b), providing new technical insights for the field of fNIRS classification.
 
 
 
